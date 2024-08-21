@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/areas/digital-garden/diego-s-enchiridion/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-17T12:10:04.765-07:00"}
+{"dg-publish":true,"dg-path":"Getting Started/Diego's Enchiridion.md","permalink":"/getting-started/diego-s-enchiridion/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-20T17:03:28.619-07:00"}
 ---
 
 # Welcome!
