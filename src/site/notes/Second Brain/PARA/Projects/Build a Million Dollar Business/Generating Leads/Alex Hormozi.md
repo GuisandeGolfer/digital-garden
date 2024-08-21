@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/","noteIcon":"","updated":"2024-08-21T16:43:04.185-07:00"}
+{"dg-publish":true,"permalink":"/second-brain/para/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/","noteIcon":"","updated":"2024-08-21T16:48:22.720-07:00"}
 ---
 
-![](https://www.youtube.com/watch?v=w7g08dVTwaE)
 
+![[https://www.youtube.com/watch?v=w7g08dVTwaE\|https://www.youtube.com/watch?v=w7g08dVTwaE]]
 # Notes
 ---
 - [x] finish taking notes on this, watch at 1.5x speed #lowEnergy 🔼 📅 2023-08-02 ✅ 2023-08-03
