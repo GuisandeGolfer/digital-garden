@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Getting Started/Diego's Enchiridion.md","permalink":"/getting-started/diego-s-enchiridion/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-20T17:03:28.619-07:00"}
+{"dg-publish":true,"dg-path":"Getting Started/Diego's Enchiridion.md","permalink":"/getting-started/diego-s-enchiridion/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-20T17:14:01.707-07:00"}
 ---
 
 # Welcome!
@@ -15,4 +15,3 @@ You can explore the site through the search bar or the file tree on left, or you
 I will updating this homepage to have a view into my recently added or modified notes, and resources to learn more about me. 
 
 Thank you!
-
