@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Second Brain/PARA/Resources/YouTube-Summaries/Automating with AI.md","permalink":"/second-brain/para/resources/you-tube-summaries/automating-with-ai/","noteIcon":"","updated":"2024-08-21T21:50:38.848-07:00"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Automating with AI.md","permalink":"/resources/you-tube-summaries/automating-with-ai/","noteIcon":"","updated":"2024-08-22T10:46:17.210-07:00"}
 ---
 
 
