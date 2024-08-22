@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/projects/fast-api-refresh-for-ai/master-plan/","noteIcon":"","updated":"2024-08-19T21:56:45.466-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/Master Plan.md","permalink":"/projects/fast-api-refresh-for-ai/master-plan/","noteIcon":"","updated":"2024-08-19T21:56:45.466-07:00"}
 ---
 
 

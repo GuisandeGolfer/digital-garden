@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/resources/terminal/how-to-find-your-terminal/","noteIcon":"","updated":"2024-08-20T13:33:49.790-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Terminal/How to find your Terminal.md","permalink":"/resources/terminal/how-to-find-your-terminal/","noteIcon":"","updated":"2024-08-20T13:33:49.790-07:00"}
 ---
 
 # How to Find Your Terminal

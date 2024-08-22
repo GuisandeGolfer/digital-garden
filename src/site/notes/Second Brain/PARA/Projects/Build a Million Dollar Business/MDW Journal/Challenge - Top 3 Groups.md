@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/projects/build-a-million-dollar-business/mdw-journal/challenge-top-3-groups/","noteIcon":"","updated":"2024-08-21T16:35:48.161-07:00"}
+{"dg-publish":true,"dg-path":"Projects/Build a Million Dollar Business/MDW Journal/Challenge - Top 3 Groups.md","permalink":"/projects/build-a-million-dollar-business/mdw-journal/challenge-top-3-groups/","noteIcon":"","updated":"2024-08-21T16:35:48.161-07:00"}
 ---
 
 Top 3 groups that I am apart of that I would be excited to help out:

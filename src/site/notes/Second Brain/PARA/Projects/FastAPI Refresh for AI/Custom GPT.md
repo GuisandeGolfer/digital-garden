@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/projects/fast-api-refresh-for-ai/custom-gpt/","noteIcon":"","updated":"2024-08-19T21:58:15.203-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/Custom GPT.md","permalink":"/projects/fast-api-refresh-for-ai/custom-gpt/","noteIcon":"","updated":"2024-08-19T21:58:15.203-07:00"}
 ---
 
 Will need to create a data model / template for OpenAI and have methods in the api that run my script, fill the information into the OpenAI response model, and maybe reference database values; and then send that response back to the custom GPT.
