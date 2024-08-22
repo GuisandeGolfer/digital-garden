@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/para/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/","noteIcon":"","updated":"2024-08-21T16:51:49.539-07:00"}
+{"dg-publish":true,"permalink":"/second-brain/para/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/","noteIcon":"","updated":"2024-08-21T18:38:35.208-07:00"}
 ---
 
 
 <iframe src="https://www.youtube.com/embed/w7g08dVTwaE" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Notes
 ---
-- [x] finish taking notes on this, watch at 1.5x speed #lowEnergy 🔼 📅 2023-08-02 ✅ 2023-08-03
-
 1. *Create a List*
 	1. everyone you have ever contacted on ...
 	1. email
