@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","noteIcon":"","updated":"2024-08-22T10:46:30.220-07:00"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","noteIcon":"","updated":"2024-08-27T16:40:22.791-07:00"}
 ---
 
 
@@ -29,6 +29,7 @@ original video: https://youtu.be/awnn-bqV_Tw
 	1. build your business around that specific audience you know about and you want to learn more about (have passion about).
 	2. passion = perseverance
 
+
 - ==5 actionable steps to start your own business==
 1.  learn a monetize-able skill that helps the people that I care about
 	1. list out those skills and see which ones are closest to your skillsets or the skillsets you want to learn
@@ -41,7 +42,10 @@ original video: https://youtu.be/awnn-bqV_Tw
 3. Once you have a portfolio, make a website to show it off, *turn it into a paid gig* 
 	1. reach out to new people for an initial *work for free*
 		- $ then through your portfolio, testimonials, and skill level, your work will speak for itself, and will have more social proof so you can book more gigs.
-	2. keep learning and growing while sharing online so you can build your domain authority
+
+hidden
+
+1. keep learning and growing while sharing online so you can build your domain authority
 4. productive the service
 	1. <u>"Take your shot" by Robin Waite</u> (Read)
 	2. change your pricing model
@@ -202,3 +206,4 @@ periodically ask: **"Is the thing you're currently doing actually the thing you 
 2. scaling too fast too soon
 3. forgetting work-life balance
 	1. enjoy life
+
