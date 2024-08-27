@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/","noteIcon":"","updated":"2024-08-23T15:31:23.682-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/","noteIcon":"","updated":"2024-08-25T17:15:33.686-07:00"}
 ---
 
 
@@ -34,7 +34,6 @@
 - for efficiency: Web Sockets?
 - ! Look into RabbitMQ for backend task management? 
 - long polling = send poll and hold onto it until it gets a new message, before sending back a response
-- 
 
 
 ### What are inside HTTP REST Requests?
