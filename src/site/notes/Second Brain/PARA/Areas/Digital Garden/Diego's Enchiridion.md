@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Getting Started/Diego's Enchiridion.md","permalink":"/getting-started/diego-s-enchiridion/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-20T17:14:01.707-07:00"}
+{"dg-publish":true,"dg-path":"Getting Started/Diego's Enchiridion.md","permalink":"/getting-started/diego-s-enchiridion/","tags":["gardenEntry"]}
 ---
 
 # Welcome!

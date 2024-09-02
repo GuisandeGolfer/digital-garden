@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Vimium Browser Shortcuts.md","permalink":"/resources/terminal/neovim/vimium-browser-shortcuts/","noteIcon":"","updated":"2024-08-19T21:03:35.722-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Vimium Browser Shortcuts.md","permalink":"/resources/terminal/neovim/vimium-browser-shortcuts/"}
 ---
 
 >[!info] 

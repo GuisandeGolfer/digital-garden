@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Python/Python - Yield keyword.md","permalink":"/resources/python/python-yield-keyword/","noteIcon":"","updated":"2024-08-26T21:43:02.990-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Python/Python - Yield keyword.md","permalink":"/resources/python/python-yield-keyword/"}
 ---
 
 

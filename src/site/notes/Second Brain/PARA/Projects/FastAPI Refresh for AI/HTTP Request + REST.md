@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/","noteIcon":"","updated":"2024-08-25T17:15:33.686-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/"}
 ---
 
 
@@ -22,7 +22,7 @@
 ## WebSockets vs REST 
 ---
 
-<iframe src="https://www.youtube.com/embed/fG4dkrlaZAA&t=307s" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=fG4dkrlaZAA&t=307s)
 
 **Notes**
 

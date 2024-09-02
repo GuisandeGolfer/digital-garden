@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Obsidian/Obsidian Docs Helpful Pages.md","permalink":"/resources/obsidian/obsidian-docs-helpful-pages/","noteIcon":"","updated":"2024-08-25T13:50:24.940-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Obsidian/Obsidian Docs Helpful Pages.md","permalink":"/resources/obsidian/obsidian-docs-helpful-pages/"}
 ---
 
 >[!bike]+ Foreword...

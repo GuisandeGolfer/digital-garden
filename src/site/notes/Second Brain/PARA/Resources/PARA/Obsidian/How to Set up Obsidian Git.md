@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/PARA/Obsidian/How to Set up Obsidian Git.md","permalink":"/resources/para/obsidian/how-to-set-up-obsidian-git/","noteIcon":"","updated":"2024-08-26T21:40:57.330-07:00"}
+{"dg-publish":true,"dg-path":"Resources/PARA/Obsidian/How to Set up Obsidian Git.md","permalink":"/resources/para/obsidian/how-to-set-up-obsidian-git/"}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","noteIcon":"","updated":"2024-08-27T16:40:22.791-07:00"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/"}
 ---
 
 
-<iframe src="https://www.youtube.com/embed/awnn-bqV_Tw" title="How to Start a Business from Nothing: Ali Abdaal" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![How to Start a Business from Nothing: Ali Abdaal](https://youtu.be/awnn-bqV_Tw)
 { #99885e}
 
 
@@ -33,17 +33,14 @@ original video: https://youtu.be/awnn-bqV_Tw
 - ==5 actionable steps to start your own business==
 1.  learn a monetize-able skill that helps the people that I care about
 	1. list out those skills and see which ones are closest to your skillsets or the skillsets you want to learn
-2. offer your services for free
-	1. without permission
-	2. and then *documenting it in public, and providing value first, and for the people you care about*
-	3. cold email your market, initial offer (social proof, service for free, CTA), send out as much as you can
-	- @ try making something ahead of the email and send it with the cold email, and show that they can work with you and then eventually pay you down the line
-	5. ==remember to document everything and build your audience
-3. Once you have a portfolio, make a website to show it off, *turn it into a paid gig* 
-	1. reach out to new people for an initial *work for free*
-		- $ then through your portfolio, testimonials, and skill level, your work will speak for itself, and will have more social proof so you can book more gigs.
+	hidden
+>[!activity] Hidden Callout
+>>[!bike] 08/27/'24 - This is my Challenge right now :LiArrowBigUp: 
+> cold emailing or just reach out to people I know personally that I could help in order to build a portfolio of work
+> reminds me of this tweet: [[Second Brain/PARA/Projects/Build a Million Dollar Business/Generating Leads/Creating your own Agency#Jordan Ross Twitter Guide\|Creating your own Agency#Jordan Ross Twitter Guide]],
+> building a basic email / text offer where I can give people value for free and ask for solid feedback, a testimonial, and one other person to refer to
 
-hidden
+:::hidden
 
 1. keep learning and growing while sharing online so you can build your domain authority
 4. productive the service
@@ -62,7 +59,7 @@ hidden
 	4. do this usually after 2-3 years of success
 	5. after that you can build a business system that delivers results, not solely from individuals themselves. 
  
-<iframe src="https://www.youtube.com/embed/IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15)
 
 original video: https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15
 # Video Notes
@@ -98,7 +95,7 @@ original video: https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03
 
 # $0 -> $10K how to start a business
 
-<iframe src="https://www.youtube.com/embed/VwLqwcjJwRo&t=102s" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=VwLqwcjJwRo&t=102s)
 
 ## Notes
 ---
@@ -156,7 +153,7 @@ shift your mindset towards money -> *$3K is not a lot of money*
 - non-j-curve businesses require a sales process.
 
 
-<iframe src="https://www.youtube.com/embed/0E9ZcyCpMIs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=0E9ZcyCpMIs)
 # Notes
 ---
 ## Step 1
