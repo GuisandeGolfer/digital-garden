@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Build a Million Dollar Business/MDW Journal/Part 2 - Build it!.md","permalink":"/projects/build-a-million-dollar-business/mdw-journal/part-2-build-it/"}
+{"dg-publish":true,"dg-path":"Projects/Build a Million Dollar Business/MDW Journal/Part 2 - Build it!.md","permalink":"/projects/build-a-million-dollar-business/mdw-journal/part-2-build-it/","created":"2024-09-01T14:28:32.436-07:00","updated":"2024-09-01T14:28:32.436-07:00"}
 ---
 
 ## Launch your Business with the MDW Process

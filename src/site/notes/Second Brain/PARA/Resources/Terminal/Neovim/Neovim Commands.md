@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Neovim Commands.md","permalink":"/resources/terminal/neovim/neovim-commands/"}
+{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Neovim Commands.md","permalink":"/resources/terminal/neovim/neovim-commands/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T14:28:32.440-07:00"}
 ---
 
 Nvim-Treesitter

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Build a Million Dollar Business/Generating Leads/Alex Hormozi.md","permalink":"/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/"}
+{"dg-publish":true,"dg-path":"Projects/Build a Million Dollar Business/Generating Leads/Alex Hormozi.md","permalink":"/projects/build-a-million-dollar-business/generating-leads/alex-hormozi/","created":"2024-09-01T14:28:32.436-07:00","updated":"2024-09-01T14:28:32.436-07:00"}
 ---
 
-![](https://www.youtube.com/watch?v=w7g08dVTwaE)
+<iframe src="https://www.youtube.com/embed/w7g08dVTwaE" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Notes
 ---

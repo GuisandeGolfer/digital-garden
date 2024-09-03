@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Terminal/How to find your Terminal.md","permalink":"/resources/terminal/how-to-find-your-terminal/"}
+{"dg-publish":true,"dg-path":"Resources/Terminal/How to find your Terminal.md","permalink":"/resources/terminal/how-to-find-your-terminal/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T14:28:32.440-07:00"}
 ---
 
 # How to Find Your Terminal

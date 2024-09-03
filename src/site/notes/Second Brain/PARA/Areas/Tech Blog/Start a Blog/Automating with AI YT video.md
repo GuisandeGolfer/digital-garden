@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Automating with AI.md","permalink":"/resources/you-tube-summaries/automating-with-ai/"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Automating with AI.md","permalink":"/resources/you-tube-summaries/automating-with-ai/","created":"2024-09-01T14:28:32.436-07:00","updated":"2024-09-01T14:28:32.436-07:00"}
 ---
 
 
-![](https://youtu.be/VZFg3E0WzX4?t=542)
+<iframe src="https://www.youtube.com/embed/VZFg3E0WzX4?t=542" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Notes
 ---

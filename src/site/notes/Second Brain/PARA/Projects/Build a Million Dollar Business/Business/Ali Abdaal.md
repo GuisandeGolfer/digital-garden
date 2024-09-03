@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","created":"2024-09-01T14:28:32.436-07:00","updated":"2024-09-01T14:28:32.436-07:00"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","created":"2024-09-02T19:03:49.874-07:00","updated":"2024-09-02T19:03:49.874-07:00"}
 ---
 
 
-![How to Start a Business from Nothing: Ali Abdaal](https://youtu.be/awnn-bqV_Tw)
+
+<iframe src="https://www.youtube.com/embed/awnn-bqV_Tw" title="How to Start a Business from Nothing: Ali Abdaal" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 { #99885e}
 
 
@@ -59,7 +60,7 @@ original video: https://youtu.be/awnn-bqV_Tw
 	4. do this usually after 2-3 years of success
 	5. after that you can build a business system that delivers results, not solely from individuals themselves. 
  
-![](https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15)
+<iframe src="https://www.youtube.com/embed/IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 original video: https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03bSsm3saqEqj3TSjZpIy&index=15
 # Video Notes
@@ -95,7 +96,7 @@ original video: https://www.youtube.com/watch?v=IK4B7XUqXWY&list=PLzK__islD6Ot03
 
 # $0 -> $10K how to start a business
 
-![](https://www.youtube.com/watch?v=VwLqwcjJwRo&t=102s)
+<iframe src="https://www.youtube.com/embed/VwLqwcjJwRo&t=102s" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Notes
 ---
@@ -153,7 +154,7 @@ shift your mindset towards money -> *$3K is not a lot of money*
 - non-j-curve businesses require a sales process.
 
 
-![](https://www.youtube.com/watch?v=0E9ZcyCpMIs)
+<iframe src="https://www.youtube.com/embed/0E9ZcyCpMIs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Notes
 ---
 ## Step 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Build in Public/Blogging.md","permalink":"/projects/software-engineer-in-2-years/build-in-public/blogging/"}
+{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Build in Public/Blogging.md","permalink":"/projects/software-engineer-in-2-years/build-in-public/blogging/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T22:18:15.414-07:00"}
 ---
 
 

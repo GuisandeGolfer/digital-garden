@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Complete AI & DS Mastery/Daniel Bourke ML Roadmap/Daniel Bourke ML Roadmap.md","permalink":"/projects/software-engineer-in-2-years/complete-ai-and-ds-mastery/daniel-bourke-ml-roadmap/daniel-bourke-ml-roadmap/"}
+{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Complete AI & DS Mastery/Daniel Bourke ML Roadmap/Daniel Bourke ML Roadmap.md","permalink":"/projects/software-engineer-in-2-years/complete-ai-and-ds-mastery/daniel-bourke-ml-roadmap/daniel-bourke-ml-roadmap/","created":"2024-07-27T10:06:18.538-07:00","updated":"2024-09-01T22:13:43.103-07:00"}
 ---
 
 
 
-![](https://www.youtube.com/watch?v=Al4bwR--BgY)
+<iframe src="https://www.youtube.com/embed/Al4bwR--BgY" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - @ After catching myself with Python, AKA finish python programmer google cert.
 
