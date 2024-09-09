@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Guides/Personal Knowledge Management 101.md","permalink":"/resources/guides/personal-knowledge-management-101/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T14:28:32.440-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Guides/Personal Knowledge Management 101.md","permalink":"/resources/guides/personal-knowledge-management-101/","noteIcon":"","updated":"2024-08-16T18:09:01.083-07:00"}
 ---
 
 

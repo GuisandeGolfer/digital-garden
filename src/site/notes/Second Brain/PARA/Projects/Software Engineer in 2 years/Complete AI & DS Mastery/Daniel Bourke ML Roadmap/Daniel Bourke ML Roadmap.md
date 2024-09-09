@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Complete AI & DS Mastery/Daniel Bourke ML Roadmap/Daniel Bourke ML Roadmap.md","permalink":"/projects/software-engineer-in-2-years/complete-ai-and-ds-mastery/daniel-bourke-ml-roadmap/daniel-bourke-ml-roadmap/","created":"2024-07-27T10:06:18.538-07:00","updated":"2024-09-01T22:13:43.103-07:00"}
+{"dg-publish":true,"dg-path":"Projects/Software Engineer in 2 years/Complete AI & DS Mastery/Daniel Bourke ML Roadmap/Daniel Bourke ML Roadmap.md","permalink":"/projects/software-engineer-in-2-years/complete-ai-and-ds-mastery/daniel-bourke-ml-roadmap/daniel-bourke-ml-roadmap/","noteIcon":"","updated":"2024-09-02T13:11:18.881-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - $ Learn Machine Learning / Deep Learning Fundamentals - in PUBLIC.
 	- [[Second Brain/PARA/Projects/Software Engineer in 2 years/Python/Machine Learning/ML AoI\|ML AoI]]
 	- [[Second Brain/PARA/Projects/Software Engineer in 2 years/Guidance/Machine Learning Reddit Page\|Machine Learning Reddit Page]]
-	- [[Second Brain/PARA/Areas/Goals/Courses/Machine Learning Specialization/Machine Learning Specialization\|Machine Learning Specialization]]
+	- [[Second Brain/PARA/Areas/Learning/Courses/Coursera/Machine Learning Specialization/Machine Learning Specialization\|Machine Learning Specialization]]
 
 - @ You don't need another course (after learning skills). Start applying ML concepts through building real-impact projects in PUBLIC: best way to learn
 	- need to "go off the happy path" so you can learn the highly valuable specific knowledge that comes from hours of troubleshooting, data mining, and stack exchange

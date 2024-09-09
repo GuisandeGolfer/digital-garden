@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/Youtube Resources.md","permalink":"/projects/fast-api-refresh-for-ai/youtube-resources/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T14:28:32.440-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/Youtube Resources.md","permalink":"/projects/fast-api-refresh-for-ai/youtube-resources/","noteIcon":"","updated":"2024-08-19T21:57:50.003-07:00"}
 ---
 
 <iframe src="https://www.youtube.com/embed/D0D4Pa22iG0" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

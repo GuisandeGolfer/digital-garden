@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Areas/Digital Garden/Custom Filters for YT.md","permalink":"/areas/digital-garden/custom-filters-for-yt/","created":"2024-09-02T19:03:49.874-07:00","updated":"2024-09-02T19:04:36.618-07:00"}
+{"dg-publish":true,"dg-path":"Areas/Digital Garden/Custom Filters for YT.md","permalink":"/areas/digital-garden/custom-filters-for-yt/","noteIcon":"","updated":"2024-09-08T13:03:02.362-07:00"}
 ---
 
 >[!anchor] regex

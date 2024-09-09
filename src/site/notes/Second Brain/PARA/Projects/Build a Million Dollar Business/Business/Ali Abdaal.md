@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","created":"2024-09-02T19:03:49.874-07:00","updated":"2024-09-02T19:03:49.874-07:00"}
+{"dg-publish":true,"dg-path":"Resources/YouTube-Summaries/Ali Abdaal Videos.md","permalink":"/resources/you-tube-summaries/ali-abdaal-videos/","noteIcon":"","updated":"2024-09-02T19:01:58.984-07:00"}
 ---
 
 

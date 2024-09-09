@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/","created":"2024-09-01T14:28:32.440-07:00","updated":"2024-09-01T14:28:32.440-07:00"}
+{"dg-publish":true,"dg-path":"Projects/FastAPI Refresh for AI/HTTP Request + REST.md","permalink":"/projects/fast-api-refresh-for-ai/http-request-rest/","noteIcon":"","updated":"2024-08-25T17:15:33.686-07:00"}
 ---
 
 
