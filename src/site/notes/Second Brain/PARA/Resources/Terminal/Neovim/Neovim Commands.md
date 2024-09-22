@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Neovim Commands.md","permalink":"/resources/terminal/neovim/neovim-commands/","noteIcon":"","updated":"2024-08-24T12:53:43.483-07:00"}
+{"dg-publish":true,"dg-path":"Resources/Terminal/Neovim/Neovim Commands.md","permalink":"/resources/terminal/neovim/neovim-commands/","noteIcon":"","updated":"2024-09-20T16:23:44.138-07:00"}
 ---
 
 Nvim-Treesitter
@@ -199,3 +199,18 @@ This works as follows:
 >[!attention] Watch Out...
 >Make sure you escape `[ ]` in vim search and replace because it's a regex special character
 
+
+## Add "TODO:" lines into QuickFix List
+---
+
+Using this command you can add every line that contains `TODO:` into the quicklist window that you can use here:
+
+```bash
+  vimgrep /TODO/ % | cwindow
+```
+
+commands for navigating the QuickFix List:
+
+- `cnext`: go to next in the quickfix list
+- `clast`: go to last in the quickfix list
+- `cwindow`: open the QuickFix List
